@@ -1,12 +1,12 @@
 .container{
-background: lightblue;
+background: rgb(198, 173, 230);
 }
 nav{
     height: 50px;
-    background: yellow;
+    background: rgb(43, 255, 0);
 }
 header{
     height: 300px;
-    background: orange;
+    background: rgb(0, 140, 255);
     border-radius: 50px;
 }

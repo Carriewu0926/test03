@@ -1,0 +1,11 @@
+.container{
+background: lightblue;
+}
+nav{
+    height: 50px;
+    background: yellow;
+}
+header{
+    height: 300px;
+    background: orange;
+}

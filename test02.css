@@ -1,12 +1,12 @@
 .container{
-background: rgb(198, 173, 230);
+background: rgb(51, 7, 109);
 }
 nav{
     height: 50px;
-    background: rgb(43, 255, 0);
+    background: rgb(0, 225, 255);
 }
 header{
     height: 300px;
-    background: rgb(0, 140, 255);
+    background: rgb(119, 189, 247);
     border-radius: 50px;
 }

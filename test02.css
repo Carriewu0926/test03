@@ -8,4 +8,5 @@ nav{
 header{
     height: 300px;
     background: orange;
+    border-radius: 50px;
 }
